@@ -30,6 +30,16 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h3 align="left">Connect Freely !</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/hiteshsutharr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -42,6 +52,7 @@
   </a>
 </div>
 
+###
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=senorhitesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
