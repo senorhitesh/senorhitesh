@@ -35,25 +35,6 @@
 </div>
 
 ###
-
-<h3 align="left">Connect Freely !</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hiteshsutharr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/senor_hitesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/senorHitesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=senorhitesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=senorhitesh&theme=dark&hide_border=false)<br/>
