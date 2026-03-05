@@ -34,8 +34,3 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=senorhitesh&theme=dark&hide_border=false)<br/>
----
-
