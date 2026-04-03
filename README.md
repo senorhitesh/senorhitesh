@@ -94,8 +94,3 @@ const hitesh = {
 
 </div>
 
----
-
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=senorHitesh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
