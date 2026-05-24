@@ -1,4 +1,4 @@
-<div align="center">
+E<div align="center">
 
 ```
 ██╗  ██╗██╗████████╗███████╗███████╗██╗  ██╗
@@ -20,13 +20,10 @@
 
 ```js
 const hitesh = {
-  location: "Sirohi, Rajasthan 🇮🇳",
+  location: "Vadodara, Gujarat  🇮🇳",
   education: "IGNOU Student",
   status: "Creating bugs since 2025 🐛",
-  currentFocus: "Frontend Development",
-  goal: "Become an Industry-Grade Developer 🎯",
-  method: "Learning by Building 🔨",
-  openTo: ["Code Reviews", "Feedback", "Collabs"],
+  currentFocus: "Agentic Ai Development",
 };
 ```
 
@@ -62,23 +59,9 @@ const hitesh = {
 
 ---
 
-### 🌱 Currently On My Radar
-
-```
-📦  Mastering React + TypeScript patterns
-⚡  Exploring Next.js + Python for Agentic Devlopment
-🎨  Leveling up UI/UX with Framer Motion & GSAP
-🔧  Building real-world projects to strengthen my portfolio
-```
-
----
-
 ### 💬 Dev Quote of the Day
-
 <div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </div>
 
 ---
