@@ -24,6 +24,7 @@ const hitesh = {
   education: "IGNOU Student",
   status: "Creating bugs since 2025 🐛",
   currentFocus: "Agentic Ai Development",
+  portfolio: hiteshdevcom.vercel.app
 };
 ```
 
