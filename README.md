@@ -58,22 +58,3 @@ const hitesh = {
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
-
-### 💬 Dev Quote of the Day
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
-
----
-
-### 🌐 Find Me Online
-
-<div align="center">
-
-[![Instagram](https://www.instagram.com/hiteshhdev/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshsutharr)
-[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/senorHitesh)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senorhitesh@gmail.com)
-
-</div>
-
