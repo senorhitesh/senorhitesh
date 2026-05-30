@@ -71,19 +71,6 @@ hitesh = {
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senorhitesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senorhitesh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 ### 🔗 Connect
 
 <div align="center">
