@@ -30,7 +30,7 @@ hitesh = {
 ```
 
 > I build autonomous systems that solve problems.  
-> I use **Python** to build the *brain* (Agentic logic & RAG) and **React/TypeScript** to build the *body* (the interface).  
+> I use **Python** to build the Agentic logic & RAG  to build the interface.  
 > My goal: ship complete, end-to-end AI-powered products — polished frontends backed by agents that think and automate real workflows.
 
 <br clear="right"/>
