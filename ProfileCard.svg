@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="622" viewBox="0 0 820 622" role="img" aria-label="hitesh@dev terminal profile card">
+<defs>
+<linearGradient id="glow" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#BC8CFF" stop-opacity="0.16"/><stop offset="100%" stop-color="#BC8CFF" stop-opacity="0"/></linearGradient>
+<pattern id="scan" width="1" height="3" patternUnits="userSpaceOnUse"><rect width="1" height="1" fill="#FFFFFF" opacity="0.014"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="819" height="621" rx="12" fill="#0B0E14" stroke="#21262D"/>
+<path d="M0.5 12.5a12 12 0 0 1 12-12h795a12 12 0 0 1 12 12v27H0.5z" fill="#0D1117"/>
+<line x1="0.5" y1="40" x2="819.5" y2="40" stroke="#21262D"/>
+<circle cx="24" cy="20" r="5" fill="#FF7B72"/>
+<circle cx="42" cy="20" r="5" fill="#E3B341"/>
+<circle cx="60" cy="20" r="5" fill="#3FB950"/>
+<text x="410.0" y="24.5" text-anchor="middle" font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" fill="#6E7681">hitesh@dev — zsh</text>
+<rect x="24.5" y="60.5" width="300" height="538" rx="8" fill="#0D1117" stroke="#21262D"/>
+<rect x="25" y="115" width="298" height="270" rx="8" fill="url(#glow)"/>
+<g font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" fill="#BC8CFF" xml:space="preserve">
+<text x="60" y="278">   __ ______________________ __</text>
+<text x="60" y="298">  / // /  _/_  __/ __/ __/ // /</text>
+<text x="60" y="318"> / _  // /  / / / _/_\ \/ _  / </text>
+<text x="60" y="338">/_//_/___/ /_/ /___/___/_//_/  </text>
+</g>
+<text x="54" y="396" font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13" fill="#6E7681"><tspan fill="#3FB950">$</tspan> from prompts</text>
+<text x="54" y="418" font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13" fill="#C9D1D9">    to pipelines</text>
+<rect x="176" y="407" width="8" height="15" fill="#3FB950"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="54" y="456" font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="10.5" fill="#6E7681" letter-spacing="1.4">BACKEND INTERN · LABMENTIX</text>
+<rect x="54" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="67" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="80" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="93" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="106" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="119" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="132" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="145" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="158" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="171" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<rect x="184" y="466" width="10" height="7" rx="1.5" fill="#39C5CF"/>
+<text x="54" y="494" font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="10.5" fill="#3FB950" letter-spacing="1">● OPEN TO COLLABORATIONS</text>
+<g font-family="'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13">
+<text x="356" y="80" font-size="14.5" font-weight="700" fill="#3FB950">hitesh@dev</text>
+<line x1="486" y1="75" x2="788" y2="75" stroke="#21262D"/>
+<text x="356" y="101" fill="#58A6FF">Location</text>
+<line x1="470" y1="97" x2="542" y2="97" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="101" fill="#C9D1D9">Vadodara, Gujarat, IN 🇮🇳</text>
+<text x="356" y="124" fill="#58A6FF">Education</text>
+<line x1="470" y1="120" x2="542" y2="120" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="124" fill="#C9D1D9">BCA, IGNOU</text>
+<text x="356" y="147" fill="#58A6FF">Role</text>
+<line x1="470" y1="143" x2="542" y2="143" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="147" fill="#C9D1D9">Backend Intern @ Labmentix</text>
+<text x="356" y="170" fill="#58A6FF">Status</text>
+<line x1="470" y1="166" x2="542" y2="166" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="170" fill="#C9D1D9">Building autonomous AI systems 🤖</text>
+<text x="356" y="193" fill="#58A6FF">Focus</text>
+<line x1="470" y1="189" x2="542" y2="189" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="193" fill="#C9D1D9">Agentic AI &amp; RAG pipelines</text>
+<text x="356" y="239" fill="#58A6FF">Languages</text>
+<line x1="470" y1="235" x2="542" y2="235" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="239" fill="#C9D1D9">TypeScript, Python, JS, HTML5, CSS3</text>
+<text x="356" y="262" fill="#58A6FF">AI / Backend</text>
+<line x1="470" y1="258" x2="542" y2="258" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="262" fill="#C9D1D9">LangChain, FastAPI, Postgres</text>
+<text x="356" y="285" fill="#58A6FF">Frontend</text>
+<line x1="470" y1="281" x2="542" y2="281" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="285" fill="#C9D1D9">React, Next.js, Tailwind, Framer</text>
+<text x="356" y="308" fill="#58A6FF">Tools</text>
+<line x1="470" y1="304" x2="542" y2="304" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="308" fill="#C9D1D9">Git, GitHub, Docker, Bun, Vercel</text>
+<text x="356" y="352" font-size="10.5" fill="#D29922" letter-spacing="1.6">CONTACT</text>
+<line x1="434" y1="348" x2="788" y2="348" stroke="#21262D"/>
+<text x="356" y="375" fill="#58A6FF">Email</text>
+<line x1="470" y1="371" x2="542" y2="371" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="375" fill="#C9D1D9">senorhitesh@gmail.com</text>
+<text x="356" y="398" fill="#58A6FF">Portfolio</text>
+<line x1="470" y1="394" x2="542" y2="394" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="398" fill="#C9D1D9">hiteshdevcom.vercel.app</text>
+<text x="356" y="421" fill="#58A6FF">LinkedIn</text>
+<line x1="470" y1="417" x2="542" y2="417" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="421" fill="#C9D1D9">in/hiteshsutharr</text>
+<text x="356" y="444" fill="#58A6FF">X</text>
+<line x1="470" y1="440" x2="542" y2="440" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="444" fill="#C9D1D9">@senorhitesh</text>
+<text x="356" y="488" font-size="10.5" fill="#D29922" letter-spacing="1.6">NOW</text>
+<line x1="404" y1="484" x2="788" y2="484" stroke="#21262D"/>
+<text x="356" y="511" fill="#58A6FF">Status</text>
+<line x1="470" y1="507" x2="542" y2="507" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="511" fill="#C9D1D9">Open to collaborations</text>
+
+<text x="356" y="557" fill="#58A6FF">Currently</text>
+<line x1="470" y1="553" x2="542" y2="553" stroke="#3D444D" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+<text x="556" y="557" fill="#C9D1D9">Shipping ideas to production</text>
+</g>
+<rect x="1" y="41" width="818" height="580" fill="url(#scan)" pointer-events="none"/>
+</svg>
